@@ -9,11 +9,11 @@ Um dies leichter einsehbar zu machen wurde auf das Add-on [Cucumber](https://cuc
 ```bash
 npm install
 ```
-## Test im Terminal starten
+## Test headless starten
 ```bash
 npx cypress run
 ```
-## Test visuell starten
+## Test im Browser starten
 ```bash
 npx cypress open
 ```
